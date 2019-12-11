@@ -10,8 +10,10 @@
 ### 关于此github 库的维护和扩充
 
 目前的计划是为每一个禽兽老师简历一个文件夹，有意愿帮忙的朋友们
-1.可以通过github pull request来提交信息。这里有使用pull request功能的教程
-2.可以通过在Issues 来提交信息
-3.可以发邮件到我为这个库申请的邮箱：davidzhou726@yahoo.com. 
+1. 可以通过github pull request来提交信息。这里有使用pull request功能的教程
+2. 可以通过在Issues 来提交信息
+3. 可以发邮件到我为这个库申请的邮箱：davidzhou726@yahoo.com. 
+
+https://wallsandbooks.wordpress.com/2018/04/06/%E6%9F%94%E6%83%85%E4%BC%BC%E6%B0%B4%E6%9D%8E%E8%8E%AB%E6%84%81-%E6%83%B3%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E9%AB%98%E6%A0%A1%E7%A6%BD%E5%85%BD%E8%80%81%E5%B8%88%E9%BB%91%E5%90%8D%E5%8D%95%EF%BC%8C/
 
 
