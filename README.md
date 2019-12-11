@@ -10,10 +10,10 @@
 ### 关于此github 库的维护和扩充
 
 目前的计划是为每一个禽兽老师简历一个文件夹，有意愿帮忙的朋友们
-1. 可以通过github pull request来提交信息。这里有使用pull request功能的教程
+1. 可以通过github pull request来提交信息。这里有使用pull request功能的简单教程（https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners）
 2. 可以通过在Issues 来提交信息
 3. 可以发邮件到我为这个库申请的邮箱：davidzhou726@yahoo.com. 
-同事大家有什么建议也欢迎留言，本人第一次弄这种库需要大家的帮助
+同时大家有什么建议也欢迎留言，本人第一次弄这种库需要大家的帮助
 
 ### 目前准备添加名单
 如果有新的禽兽老师被曝光希望能第一时间备份好信息
