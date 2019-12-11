@@ -13,7 +13,12 @@
 1. 可以通过github pull request来提交信息。这里有使用pull request功能的教程
 2. 可以通过在Issues 来提交信息
 3. 可以发邮件到我为这个库申请的邮箱：davidzhou726@yahoo.com. 
+同事大家有什么建议也欢迎留言，本人第一次弄这种库需要大家的帮助
 
-https://wallsandbooks.wordpress.com/2018/04/06/%E6%9F%94%E6%83%85%E4%BC%BC%E6%B0%B4%E6%9D%8E%E8%8E%AB%E6%84%81-%E6%83%B3%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E9%AB%98%E6%A0%A1%E7%A6%BD%E5%85%BD%E8%80%81%E5%B8%88%E9%BB%91%E5%90%8D%E5%8D%95%EF%BC%8C/
+### 目前准备添加名单
+如果有新的禽兽老师被曝光希望能第一时间备份好信息
+此外也希望能整理一些过去的名单以防坏人被忘记。
+
+目前发现“豆瓣作者： 柔情似水李莫愁”在2018年已经建立了一个类似的名单（https://wallsandbooks.wordpress.com/2018/04/06/%E6%9F%94%E6%83%85%E4%BC%BC%E6%B0%B4%E6%9D%8E%E8%8E%AB%E6%84%81-%E6%83%B3%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E9%AB%98%E6%A0%A1%E7%A6%BD%E5%85%BD%E8%80%81%E5%B8%88%E9%BB%91%E5%90%8D%E5%8D%95%EF%BC%8C/）。 希望在这个基础上在这里备份好资料并继续扩充
 
 
